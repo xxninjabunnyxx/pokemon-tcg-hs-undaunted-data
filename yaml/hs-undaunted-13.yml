@@ -1,0 +1,97 @@
+---
+id: hgss3-13
+name: Forretress
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '80'
+types:
+- Metal
+evolvesFrom: Pineco
+attacks:
+- name: Spike Spread
+  cost:
+  - Metal
+  convertedEnergyCost: 1
+  damage: ''
+  text: This attack does 10 damage to each of your opponent's Pokémon. (Don't apply
+    Weakness and Resistance for Benched Pokémon.)
+- name: Gyro Ball
+  cost:
+  - Metal
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '30'
+  text: You may switch Forretress with 1 of your Benched Pokémon. If you do, your
+    opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.
+weaknesses:
+- type: Fire
+  value: "×2"
+resistances:
+- type: Psychic
+  value: "-20"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: hgss3
+  name: HS—Undaunted
+  series: HeartGold & SoulSilver
+  printedTotal: 90
+  total: 91
+  legalities:
+    unlimited: Legal
+  ptcgoCode: UD
+  releaseDate: 2010/08/18
+  updatedAt: 2018/03/04 10:35:00
+  images:
+    symbol: https://images.pokemontcg.io/hgss3/symbol.png
+    logo: https://images.pokemontcg.io/hgss3/logo.png
+number: '13'
+artist: Kagemaru Himeno
+rarity: Rare
+flavorText: It remains immovably rooted to its tree. It scatters pieces of its hard
+  shell to drive its enemies away.
+nationalPokedexNumbers:
+- 205
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/hgss3/13.png
+  large: https://images.pokemontcg.io/hgss3/13_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/hgss3-13
+  updatedAt: 2023/09/12
+  prices:
+    normal:
+      low: 0.2
+      mid: 0.56
+      high: 2.81
+      market: 0.55
+      directLow: 0.33
+    reverseHolofoil:
+      low: 0.49
+      mid: 1.16
+      high: 4.97
+      market: 1.65
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/hgss3-13
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 0.65
+    lowPrice: 0.09
+    trendPrice: 0.72
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 1.45
+    reverseHoloLow: 0.3
+    reverseHoloTrend: 1.38
+    lowPriceExPlus: 0.19
+    avg1: 0.98
+    avg7: 0.67
+    avg30: 0.59
+    reverseHoloAvg1: 1.95
+    reverseHoloAvg7: 1.18
+    reverseHoloAvg30: 1.19

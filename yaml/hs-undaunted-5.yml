@@ -1,0 +1,95 @@
+---
+id: hgss3-5
+name: Houndoom
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '90'
+types:
+- Darkness
+evolvesFrom: Houndour
+attacks:
+- name: Fire Counterattack
+  cost:
+  - Darkness
+  convertedEnergyCost: 1
+  damage: 20+
+  text: If your opponent has any Fighting Pokémon in play, this attack does 20 damage
+    plus 60 more damage.
+- name: Dark Roar
+  cost:
+  - Darkness
+  - Darkness
+  convertedEnergyCost: 2
+  damage: '50'
+  text: Your opponent discards a card from his or her hand.
+weaknesses:
+- type: Fighting
+  value: "×2"
+resistances:
+- type: Psychic
+  value: "-20"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: hgss3
+  name: HS—Undaunted
+  series: HeartGold & SoulSilver
+  printedTotal: 90
+  total: 91
+  legalities:
+    unlimited: Legal
+  ptcgoCode: UD
+  releaseDate: 2010/08/18
+  updatedAt: 2018/03/04 10:35:00
+  images:
+    symbol: https://images.pokemontcg.io/hgss3/symbol.png
+    logo: https://images.pokemontcg.io/hgss3/logo.png
+number: '5'
+artist: Kagemaru Himeno
+rarity: Rare Holo
+flavorText: Upon hearing its eerie howls, other Pokémon get the shivers and head straight
+  back to their nests.
+nationalPokedexNumbers:
+- 229
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/hgss3/5.png
+  large: https://images.pokemontcg.io/hgss3/5_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/hgss3-5
+  updatedAt: 2023/09/12
+  prices:
+    holofoil:
+      low: 5.84
+      mid: 7.24
+      high: 17.5
+      market: 7.67
+      directLow: 
+    reverseHolofoil:
+      low: 3.95
+      mid: 4.72
+      high: 11.99
+      market: 8.12
+      directLow: 4.58
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/hgss3-5
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 2.8
+    lowPrice: 0.49
+    trendPrice: 2.29
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.84
+    lowPriceExPlus: 1.0
+    avg1: 2.89
+    avg7: 2.76
+    avg30: 2.26
+    reverseHoloAvg1: 0.75
+    reverseHoloAvg7: 0.63
+    reverseHoloAvg30: 0.78
